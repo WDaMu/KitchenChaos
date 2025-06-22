@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b5589e761f2e1045a62ad7701cc4b98, type: 3}
+  m_Name: Tomato
+  m_EditorClassIdentifier: 
+  kitchenObjectName: Tomato
+  canCut: 1
+  pfKitchenObject: {fileID: 3795786266821353149, guid: 86d260f47bd3aae418bf225d6ae691cf, type: 3}

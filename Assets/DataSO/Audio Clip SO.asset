@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bbe4b59deda4184a8ede8955802f4ff, type: 3}
+  m_Name: Audio Clip SO
+  m_EditorClassIdentifier: 
+  chopClip: {fileID: 8300000, guid: e519f586b4ac0904e877dfab85ed729e, type: 3}
+  deliveryFailClip: {fileID: 8300000, guid: 400611abd7434234993616a86c030d1e, type: 3}
+  deliverySuccessClip: {fileID: 8300000, guid: 4b22bfbdbacfa0445bc9bbfbb0141085, type: 3}
+  footstepClip: {fileID: 8300000, guid: b2d2893ac04fbdb44a226f4b6ea0d271, type: 3}
+  dropClip: {fileID: 8300000, guid: 9c88983fa5906dc41944ec5a43b6b5c7, type: 3}
+  pickupClip: {fileID: 8300000, guid: 668de61a04ca5914aa745f8712c62720, type: 3}
+  panSizzleClip: {fileID: 8300000, guid: 511c1cbfb8b48b64083aec78fe17115f, type: 3}
+  trashClip: {fileID: 8300000, guid: 4b70ec0f0afb9ac4ea7dfea07aca4eb4, type: 3}
+  warningClip: {fileID: 8300000, guid: b90d8099bdbf09a40ab1163556d5b5f4, type: 3}
